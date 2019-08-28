@@ -1,4 +1,4 @@
-## Swarit Joshipura's First CS 193 Homework
+## Swarit Joshipura's First CS193 Homework
 
 ```markdown
 #### Swarit Joshipura's First CS193 Homework
